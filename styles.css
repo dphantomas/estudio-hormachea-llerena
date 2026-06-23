@@ -63,12 +63,7 @@ a {
   z-index: 1000;
 }
 
-@media (prefers-color-scheme: dark) {
-  .header {
-    background-color: rgba(28, 27, 26, 0.9);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-  }
-}
+
 
 .nav-container {
   display: flex;
