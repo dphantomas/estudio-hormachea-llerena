@@ -631,7 +631,7 @@ a {
   margin: 0 auto;
   font-size: 1.1rem;
   line-height: 1.8;
-  opacity: 0.9;
+  color: rgba(255, 255, 255, 0.95);
 }
 
 .highlights-grid {
